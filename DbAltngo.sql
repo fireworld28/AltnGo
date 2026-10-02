@@ -11,4 +11,12 @@ CREATE TABLE Utilisateur (
   Adresse_Utilisateur Varchar(255), 
 );
 
-CREATE TABLE 
+CREATE TABLE Offre (
+  Id_Offre int PRIMARY KEY,
+  Stage_Offre Varchar(255),
+  Alternance_Offre Varchar(255),
+
+);
+
+CREATE TABLE Certif (
+  
