@@ -1,4 +1,4 @@
-CREATE DATABASE   AltnGo; 
+sqzCREATE DATABASE   AltnGo; 
 CREATE TABLE Utilisateur (
   Id_Utilisateur int PRIMARY KEY,
   Nom_Utilisateur Varchar(255), 
